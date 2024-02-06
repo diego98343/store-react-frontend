@@ -1,0 +1,2 @@
+## Notes
+# store-react-frontend
